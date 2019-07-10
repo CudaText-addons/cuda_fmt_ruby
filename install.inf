@@ -1,0 +1,11 @@
+[info]
+title=Formatter for Ruby
+desc=Formats source code for Ruby lexer
+type=cudatext-plugin
+subdir=cuda_fmt_ruby
+homepage=https://github.com/CudaText-addons/cuda_fmt_ruby
+
+[fmt1]
+caption=Ruby Format
+method=do_format
+lexers=Ruby
