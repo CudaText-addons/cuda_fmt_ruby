@@ -1,3 +1,7 @@
 
+2019.07.14
+- fix formatting passive editors
+* use fixed indent size=2
+
 2019.07.10
 initial version
